@@ -1,6 +1,6 @@
 import requests
 
-API_KEY      = "NYii5TfXY5KzhPP7RPf2Wj5eMOxiZPqFI1jDuKMB"  # Replace with your actual API ke
+API_KEY      = "API_KEY_HERE"  # Replace with your actual API ke
 ACCESS_LEVEL = "trial"
 LANGUAGE     = "en"
 FORMAT       = "json"
